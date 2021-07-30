@@ -1,0 +1,30 @@
+********************************************************************************
+***                       Micro-Cap 12.2.0.5 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                     DC Analysis of PPK2_CurrentSense                     ***
+***                           20.07.2021 09:20:46                            ***
+********************************************************************************
+Limits
+======
+Variable 1 Method        Auto
+Variable 1 Name          I1
+Variable 1 Range         1,0,100u
+Variable 2 Method        None
+Variable 2 Name          
+Variable 2 Range         
+Temperature              Linear 27
+Number of Points         51
+Maximum Change %         5
+Run Options              Normal
+Auto Scale Ranges        On
+Accumulate Plots         Off
+Ignore Expression Errors Off
+
+
+*****************************************************
+***                Temperature=27                 ***
+*****************************************************
+
+Temperature=27
+

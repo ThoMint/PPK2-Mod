@@ -1,0 +1,25 @@
+********************************************************************************
+***                       Micro-Cap 12.2.0.5 (64 bit)                        ***
+***                                                                          ***
+***                                                                          ***
+***                    Transient Analysis of PPK2_Common                     ***
+***                           23.07.2021 11:48:50                            ***
+********************************************************************************
+Limits
+======
+Maximum Run Time           20m
+Output Start Time (tstart) 7m
+Maximum Time Step          300n
+Number of Points           51
+Temperature                Linear 27
+Retrace Runs               1
+Run Options                Normal
+State Variables            Zero
+Operating Point            Off
+Operating Point Only       Off
+Auto Scale Ranges          On
+Accumulate Plots           Off
+Fixed Time Step            On
+Periodic Steady State      Off
+Ignore Expression Errors   Off
+

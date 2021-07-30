@@ -1,0 +1,14 @@
+Bill of Materials
+PPK2_InstrumentationAmp.cir
+
+ Item            Type  Value or Model       Qty.      Power Total Power       Cost Total Cost Part
+    1         Battery              15          1       0.00        0.00     0.0000     0.0000 V1                   
+    2         Battery             -15          1       0.00        0.00     0.0000     0.0000 V2                   
+    3           Opamp        $GENERIC          3       0.00        0.00     0.0000     0.0000 X1,X2,X3             
+    4        Resistor             20k          4       0.00        0.00     0.0000     0.0000 R1,R2,R8,R9          
+    5        Resistor             4k7          2       0.00        0.00     0.0000     0.0000 R4,R5                
+    6        Resistor             10k          2       0.00        0.00     0.0000     0.0000 R6,R7                
+    7        Resistor             2k1          1       0.00        0.00     0.0000     0.0000 R3                   
+    8          VSpice     DC 0 AC 1 0          1       0.00        0.00     0.0000     0.0000 V3                   
+
+Total                                         15                   0.00                0.0000                     
