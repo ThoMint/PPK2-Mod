@@ -1,0 +1,3 @@
+[submodule "pc-nrfconnect-ppk"]
+	path = pc-nrfconnect-ppk
+	url = https://github.com/ThoMint/pc-nrfconnect-ppk.git
